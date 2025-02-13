@@ -1,0 +1,8 @@
+ghostscript
+camelot-py[cv]
+pandas
+pydantic
+ollama
+fastapi
+uvicorn
+python-multipart
